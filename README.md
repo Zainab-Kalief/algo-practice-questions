@@ -4,6 +4,8 @@ Algorithm practice questions with answers in Javascript. These algorithms are di
 - Linked List (coming soon)
 - Binary Search Trees (coming soon)
 
+The algorithms have been broken down into different levels of complexities; beginner, intermediate and advanced. 
+
 > NOTE: Change the `Watch` icon option on this repo to `All Activity` to receive notifications when more questions are added in the future.
 
 ![alt text](./github-watch-icon.png)
