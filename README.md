@@ -1,4 +1,4 @@
-# Algo-practice-questions JS
+# Algo-practice-questions with answers JS
 Algorithm practice questions with answers in Javascript. These algorithms are divided into different data structures:
 - Array, strings and numbers
 - Linked List (coming soon)
