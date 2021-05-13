@@ -4,4 +4,6 @@ Algorithm practice questions with answers in Javascript. These algorithms are di
 - Linked List (coming soon)
 - Binary Search Trees (coming soon)
 
-> NOTE: Star this repository to receive a notification when more questions are added in the future.
+> NOTE: Change the `Watch` icon option on this repo to `All Activity` to receive notifications when more questions are added in the future.
+
+![alt text](./github-watch-icon.png)
